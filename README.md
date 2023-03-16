@@ -28,3 +28,11 @@ For example, if you entered number is 569678, then the displayed number should b
 
 Write a program to calculate the sum of the digits of a 4-digit number which is entered from keyboard. E.g.-
     INPUT : 1234        OUTPUT : 10
+    
+# TASK 4
+
+Write a function that takes in a time in seconds (as an integer) and returns a string in the format "HH:MM:SS". For example, if the input is 3661, the output should be "01:01:01".
+
+Here are some additional requirements and constraints:
+1. The input time will be a non-negative integer.
+2. The output should always have two digits for hours, minutes, and seconds (for example, "01" instead of "1").
